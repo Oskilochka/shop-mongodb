@@ -105,3 +105,10 @@ npm start         # Браузер на http://localhost:3000
 MONGO_URI=mongodb://localhost:27017/shop
 PORT=5001
 ```
+
+
+### Скріншоти MongoDb
+<img width="1174" height="523" alt="Screenshot 2026-05-26 at 14 28 04" src="https://github.com/user-attachments/assets/bc11755c-b55e-46ef-bfca-33873ac8a90a" />
+<img width="1167" height="421" alt="Screenshot 2026-05-26 at 14 28 28" src="https://github.com/user-attachments/assets/abb6a29e-3201-4d0f-9cdf-eb80361ff692" />
+<img width="1165" height="734" alt="Screenshot 2026-05-26 at 14 29 25" src="https://github.com/user-attachments/assets/f1542717-42c5-434b-945b-e6573de3289b" />
+
